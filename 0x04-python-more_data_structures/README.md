@@ -17,4 +17,4 @@ This project directory contains tasks that acheive the following learning object
 ### Featured source files
 * Python scripts
 
-See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
+See file specifications [here](https://github.com/weldsh2535/alx-higher_level_programming#readme)
