@@ -2,6 +2,7 @@
 ## Discription
 This project directory contains tasks that acheive the following learning objectives:
 
+
 * Why Python programming is awesome
 * How to open a file
 * How to write text in a file
