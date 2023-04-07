@@ -21,4 +21,4 @@ This project directory contains tasks that acheive the following learning object
 * .txt answer files
 * Python scripts
 
-See file specifications [here](https://github.com/Samuel-IG16/alx-higher_level_programming#readme)
+
