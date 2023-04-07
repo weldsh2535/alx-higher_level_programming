@@ -20,5 +20,3 @@ This project directory contains tasks that acheive the following learning object
 ### Featured source files
 * .txt answer files
 * Python scripts
-
-
